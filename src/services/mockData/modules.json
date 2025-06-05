@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "title": "What is Apper?",
+    "description": "Learn how Apper works as your AI assistant for building complete applications",
+    "content": "Welcome to Apper! Think of Apper as your friendly AI chat assistant that builds full apps based on what you tell it. You don't need to write code, pick templates, or connect different tools — Apper handles everything in one place.\n\nImagine describing your app idea to a tech-savvy friend who can instantly build it for you. That's exactly what Apper does! You simply type what you want (like \"Make a booking app for my restaurant\"), and Apper creates a complete, working application.\n\nUnlike other tools that require technical knowledge or force you to choose from limited templates, Apper understands natural language and builds custom solutions from scratch. It's like having a full development team that works instantly and speaks your language.\n\nThe magic happens through conversation. You describe your needs, Apper asks clarifying questions if needed, and then builds your app while explaining what it's doing. No coding required, no technical jargon — just plain English conversations that result in professional applications.",
+    "order": 1,
+    "estimatedTime": "5 min read",
+    "completed": false
+  },
+  {
+    "id": "2",
+    "title": "Why Apper Stands Out",
+    "description": "Discover what makes Apper unique in the world of app building platforms",
+    "content": "What makes Apper special is its all-in-one approach. While other platforms make you juggle multiple tools, services, and integrations, Apper manages everything seamlessly in one place.\n\nTraditional app building requires you to:\n- Choose and learn a specific platform\n- Connect databases separately\n- Set up payment processing\n- Handle user authentication\n- Manage hosting and deployment\n- Learn complex interfaces\n\nWith Apper, all of this happens automatically through natural conversation. You focus on describing what you want, and Apper handles the technical complexity behind the scenes.\n\nThe conversation-based flow means you're never stuck wondering \"what button do I click next?\" Instead, you simply tell Apper what you need: \"Add a payment system\" or \"Let users upload photos\" and it happens instantly.\n\nApper also learns from your feedback. If something isn't quite right, you can say \"make that button bigger\" or \"change the color to blue\" and watch your app update in real-time. It's like pair programming with an AI that never gets tired or frustrated.",
+    "order": 2,
+    "estimatedTime": "6 min read",
+    "completed": false
+  },
+  {
+    "id": "3",
+    "title": "What You Can Build",
+    "description": "Explore the endless possibilities of applications you can create with Apper",
+    "content": "Apper's flexibility means you can build virtually any type of application you can imagine. Here are some popular examples:\n\nBusiness Tools:\n- Project management dashboards\n- Customer relationship management (CRM) systems\n- Inventory tracking applications\n- Employee scheduling tools\n- Expense reporting systems\n\nClient-Facing Applications:\n- Service booking platforms\n- Customer portals\n- Event registration systems\n- Survey and feedback tools\n- Support ticket systems\n\nE-commerce and Sales:\n- Online stores with payment processing\n- Digital product marketplaces\n- Subscription services\n- Auction platforms\n- Lead generation tools\n\nEducation and Training:\n- Learning management systems\n- Quiz and assessment tools\n- Course creation platforms\n- Student progress tracking\n- Certification systems\n\nContent and Media:\n- Blog and publication platforms\n- Photo galleries\n- Video streaming services\n- Podcast directories\n- Social networking tools\n\nThe key is to think about what problems you want to solve, not what technical features you need. Apper translates your goals into working applications automatically.",
+    "order": 3,
+    "estimatedTime": "7 min read",
+    "completed": false
+  },
+  {
+    "id": "4",
+    "title": "Create Your First App",
+    "description": "Step-by-step guide to building your first application with simple prompts",
+    "content": "Ready to build your first app? Start simple and be specific. Here's how:\n\nStep 1: Think of a real problem you want to solve\nDon't start with \"I want to build Facebook.\" Instead, think smaller: \"I need to track my gym workouts\" or \"I want customers to book appointments online.\"\n\nStep 2: Write a clear, simple prompt\nGood examples:\n- \"Make a booking app for a hair salon with calendar view and customer info\"\n- \"Create a quiz game about world capitals with scoring\"\n- \"Build a simple inventory tracker for my small store\"\n\nStep 3: Use ChatGPT to improve your prompt (Pro tip!)\nIf you're unsure about your prompt, ask ChatGPT: \"Help me write a detailed prompt for Apper to create [your app idea]. I need it to include [list your must-have features].\"\n\nChatGPT will help you structure a comprehensive prompt that gives Apper all the context it needs.\n\nStep 4: Submit your prompt to Apper\nPaste your improved prompt into Apper and watch the magic happen! Apper will start building immediately and show you progress in real-time.\n\nRemember: You can always refine and improve your app after it's created. Start with the basics and add features as you go.",
+    "order": 4,
+    "estimatedTime": "8 min read",
+    "completed": false
+  },
+  {
+    "id": "5",
+    "title": "The Apper Builder Interface",
+    "description": "Navigate through Apper's four main sections and understand their purposes",
+    "content": "Once Apper creates your app, you'll see four main sections in the builder interface. Each serves a specific purpose:\n\n1. Customize App\nThis is where you fine-tune your app's appearance and functionality. You can:\n- Adjust colors, fonts, and layout\n- Modify forms and input fields\n- Change button text and positioning\n- Upload logos and images\n- Preview changes instantly\n\n2. Manage App\nThis section handles the business side of your app:\n- Set up user permissions and roles\n- Configure signup and login methods\n- Manage email notifications\n- Set up pricing and billing\n- Control who can access what\n\n3. Code (Optional)\nMost users never need this section, but it's there if you want to:\n- Add custom functionality\n- Integrate with external services\n- Fine-tune performance\n- Export your app code\n\nRemember: Apper handles all the coding automatically, so this section is purely optional for advanced users.\n\n4. Database\nApper automatically creates and manages your database, but here you can:\n- View all your app's data\n- Export data to spreadsheets\n- Set up data relationships\n- Configure automatic backups\n\nThe beauty is that Apper sets up everything automatically. These sections just give you control when you want to customize further.",
+    "order": 5,
+    "estimatedTime": "9 min read",
+    "completed": false
+  },
+  {
+    "id": "6",
+    "title": "What Happens Behind the Scenes",
+    "description": "Understand the magic of how Apper builds your application from prompt to product",
+    "content": "Ever wondered what Apper actually does when you submit a prompt? Here's the fascinating process that happens in seconds:\n\nStep 1: Prompt Analysis\nApper's AI carefully reads your prompt and identifies:\n- The type of app you want\n- Key features and functionality\n- Target users (customers, employees, etc.)\n- Required data structures\n- Business logic needs\n\nStep 2: Architecture Planning\nBased on your requirements, Apper designs:\n- Database schema (how data will be stored)\n- User interface layout\n- Page flow and navigation\n- Security and permissions\n- Integration requirements\n\nStep 3: Rapid Development\nApper then builds your app by:\n- Creating all necessary pages and forms\n- Setting up the database automatically\n- Implementing user authentication\n- Configuring business logic\n- Styling the interface\n\nStep 4: Real-time Preview\nAs Apper works, you can see:\n- Progress updates in the chat\n- Pages being created live\n- Your app taking shape\n- Immediate preview availability\n\nStep 5: Intelligent Optimization\nApper automatically optimizes:\n- Performance and loading speed\n- Mobile responsiveness\n- Security measures\n- Data validation\n\nThe entire process typically takes 30-60 seconds, and you can chat with Apper throughout to make adjustments or ask questions. It's like watching a developer work at superhuman speed!",
+    "order": 6,
+    "estimatedTime": "7 min read",
+    "completed": false
+  },
+  {
+    "id": "7",
+    "title": "Editing and Expanding Your App",
+    "description": "Learn how to communicate with Apper AI to modify and enhance your application",
+    "content": "The real power of Apper comes after your initial app is created. You can talk to the AI assistant to make any changes or additions you want.\n\nHow to Talk to Apper:\nSimply type what you want in natural language. Apper understands context and remembers what you've discussed before.\n\nCommon Editing Examples:\n- \"Add a login page with Google authentication\"\n- \"Make the submit button save data to the database\"\n- \"Change the main color scheme to blue and white\"\n- \"Add a confirmation email after users sign up\"\n- \"Create a dashboard for admin users\"\n- \"Allow users to upload profile photos\"\n\nExpansion Ideas:\n- \"Add a rating system for products\"\n- \"Include a search feature for the blog\"\n- \"Create a notification system for new messages\"\n- \"Add payment processing with Stripe\"\n- \"Build a mobile-responsive design\"\n- \"Include data export functionality\"\n\nBest Practices for Requests:\n1. Be specific about what you want\n2. Mention where the feature should appear\n3. Explain the user flow if it's complex\n4. Ask for clarification if Apper's response isn't clear\n\nRemember: Apper can see your entire app, so it understands context. You don't need to explain everything from scratch each time. Just describe the change you want, and Apper will implement it while maintaining consistency with your existing app structure.",
+    "order": 7,
+    "estimatedTime": "8 min read",
+    "completed": false
+  },
+  {
+    "id": "8",
+    "title": "Troubleshooting Errors",
+    "description": "Don't worry about technical issues - Apper's Fix It Now feature handles everything",
+    "content": "Here's some great news: you don't need to become a technical expert to use Apper. When something goes wrong, Apper has your back.\n\nThe \"Fix It Now\" Button:\nWhenever Apper detects an issue with your app, you'll see a prominent \"Fix It Now\" button. This isn't just a band-aid solution — it's an intelligent system that:\n\n- Analyzes the problem automatically\n- Determines the root cause\n- Implements the proper fix\n- Tests the solution\n- Explains what was wrong and how it was resolved\n\nCommon Issues Apper Fixes Automatically:\n- Database connection problems\n- Form validation errors\n- Authentication issues\n- Payment processing glitches\n- Mobile responsiveness problems\n- Performance bottlenecks\n- Security vulnerabilities\n\nWhat You Don't Need to Worry About:\n- Reading error logs\n- Understanding technical jargon\n- Finding the right documentation\n- Googling solutions\n- Trial and error debugging\n\nWhen to Use \"Fix It Now\":\n- Your app stops working properly\n- Users report problems\n- You see error messages\n- Features aren't behaving as expected\n- Performance seems slow\n\nApper's Philosophy:\nWe believe you should focus on your business and users, not on technical troubleshooting. The \"Fix It Now\" feature embodies this philosophy by handling all technical problems automatically, so you can get back to what matters most — growing your business.",
+    "order": 8,
+    "estimatedTime": "6 min read",
+    "completed": false
+  },
+  {
+    "id": "9",
+    "title": "App Versions",
+    "description": "Master version control to safely experiment and restore previous app states",
+    "content": "One of Apper's most powerful features is automatic version control. Every change you make creates a new version, giving you complete freedom to experiment without fear.\n\nHow Versions Work:\nEvery time you ask Apper to make a change, it saves the current state as a version before implementing the new feature. This means you have a complete history of your app's evolution.\n\nVersion Features:\n- Automatic saving with timestamps\n- Descriptive names for each change\n- One-click switching between versions\n- Full preview of any previous version\n- Instant restoration to any point\n\nSwitching Between Versions:\n1. Go to the \"Versions\" tab in your app builder\n2. Browse through your version history\n3. Click \"Preview\" to see any version\n4. Click \"Restore\" to go back to that version\n5. Continue working from that point\n\nVersion Best Practices:\n- Make one change at a time for cleaner version history\n- Add descriptive comments when making major changes\n- Test new features before making additional changes\n- Use preview mode to compare versions side-by-side\n\nWhy Versions Are Powerful:\n- Experiment fearlessly knowing you can always go back\n- Show stakeholders different options\n- Recover from mistakes instantly\n- Track the evolution of your ideas\n- Create branching paths for different use cases\n\nExample Workflow:\nLet's say you have a booking app and want to try a different layout:\n1. Current version: \"Basic booking form\"\n2. Make changes: \"Add calendar widget\"\n3. Preview and test the new version\n4. If you like it, continue building\n5. If not, restore to \"Basic booking form\" and try a different approach\n\nVersions give you the confidence to innovate without consequences.",
+    "order": 9,
+    "estimatedTime": "7 min read",
+    "completed": false
+  },
+  {
+    "id": "10",
+    "title": "Mobile vs Desktop Preview",
+    "description": "Learn to optimize your app for all devices using Apper's preview tools",
+    "content": "In today's world, your app needs to work perfectly on phones, tablets, and computers. Apper makes this easy with built-in responsive design and powerful preview tools.\n\nAccessing Preview Modes:\nLook for the device icons in your app builder:\n- 📱 Mobile phone view\n- 📱 Tablet view\n- 💻 Desktop view\n- 🔄 Auto-responsive view\n\nWhat Each View Shows:\nMobile Preview:\n- How your app looks on smartphones\n- Touch-friendly button sizes\n- Simplified navigation\n- Optimized form layouts\n- Readable text sizes\n\nTablet Preview:\n- Medium-sized screen layout\n- Balance between mobile and desktop features\n- Hybrid navigation options\n- Comfortable spacing\n\nDesktop Preview:\n- Full feature set\n- Complex layouts and sidebars\n- Detailed information displays\n- Mouse and keyboard interactions\n\nUsing Full Preview Mode:\nClick the \"Full Preview\" button to:\n- Test your app exactly as users will see it\n- Try all features and interactions\n- Check form submissions\n- Test navigation flow\n- Verify responsive behavior\n\nTesting Best Practices:\n1. Start with mobile — it's the most restrictive\n2. Ensure all features work on small screens\n3. Check that text is readable without zooming\n4. Verify buttons are large enough for touch\n5. Test tablet view for medium screens\n6. Finally, optimize desktop for productivity\n\nCommon Mobile Optimizations Apper Makes:\n- Collapsible navigation menus\n- Larger tap targets\n- Simplified forms\n- Swipe gestures\n- Optimized image sizes\n\nRemember: Apper automatically creates responsive designs, but preview tools let you verify everything works perfectly across all devices your users might have.",
+    "order": 10,
+    "estimatedTime": "8 min read",
+    "completed": false
+  },
+  {
+    "id": "11",
+    "title": "Manage App Settings",
+    "description": "Configure app permissions, user access, and authentication methods",
+    "content": "The \"Manage App\" section is your control center for all the business and administrative aspects of your application. Here's how to use each feature effectively.\n\nRenaming Your App:\n1. Go to \"App Settings\" in the Manage section\n2. Click \"Edit App Name\"\n3. Choose a name that's clear and professional\n4. This name appears in browser tabs and bookmarks\n\nManaging Permissions:\nApper uses role-based permissions to control who can do what:\n\nAdmin Role:\n- Full access to all features\n- Can manage other users\n- Can modify app settings\n- Access to analytics and data\n\nEditor Role:\n- Can create and modify content\n- Limited administrative access\n- Cannot manage other users\n- Cannot change app settings\n\nUser Role:\n- Standard app functionality\n- Cannot access admin features\n- Can use all intended features\n- Limited to their own data\n\nSetting Up User Access:\n1. Choose \"User Management\" in Manage App\n2. Decide who can sign up:\n   - Open registration (anyone can join)\n   - Invitation only (you approve users)\n   - Admin approval required\n3. Set default role for new users\n4. Configure email verification requirements\n\nLogin and Signup Methods:\nApper supports multiple authentication options:\n\nSocial Login:\n- Google (most popular)\n- Facebook\n- LinkedIn\n- GitHub (for technical apps)\n\nTraditional Methods:\n- Email and password\n- Username and password\n- Magic links (passwordless)\n\nTwo-Factor Authentication:\n- SMS verification\n- Email verification\n- Authenticator apps\n\nBest Practices:\n- Start with email + Google for maximum compatibility\n- Require email verification for security\n- Use two-factor authentication for sensitive apps\n- Keep registration simple to reduce barriers",
+    "order": 11,
+    "estimatedTime": "9 min read",
+    "completed": false
+  },
+  {
+    "id": "12",
+    "title": "Onboarding and Emails",
+    "description": "Customize system emails and create smooth user onboarding experiences",
+    "content": "Great apps create great first impressions. Apper's email system helps you communicate professionally with users from their very first interaction.\n\nSystem Emails Apper Handles:\nEmail Confirmation:\n- Sent when users sign up\n- Verifies email addresses\n- Activates accounts\n- Customizable message and branding\n\nPassword Reset:\n- Secure reset links\n- Time-limited access\n- Clear instructions\n- Branded design\n\nOne-Time Passwords (OTP):\n- For two-factor authentication\n- Login verification\n- Sensitive action confirmation\n- Mobile-friendly format\n\nWelcome Messages:\n- Sent after successful registration\n- Introduces app features\n- Provides getting-started guidance\n- Sets expectations\n\nCustomizing Email Templates:\n1. Go to \"Email Settings\" in Manage App\n2. Select the email type you want to customize\n3. Modify:\n   - Subject lines\n   - Email content\n   - Call-to-action buttons\n   - Branding and colors\n   - Footer information\n\nEmail Best Practices:\nSubject Lines:\n- Keep them clear and specific\n- Include your app name\n- Create urgency when appropriate\n- Avoid spam-trigger words\n\nContent:\n- Use friendly, conversational tone\n- Include clear next steps\n- Provide contact information\n- Keep messages concise\n\nBranding:\n- Use your app's colors and fonts\n- Include your logo\n- Maintain consistent voice\n- Match your app's design style\n\nOnboarding Flow Example:\n1. User signs up\n2. Receives email confirmation\n3. Clicks confirmation link\n4. Gets welcome email with tutorial\n5. Receives helpful tips over first week\n\nRemember: Good email communication builds trust and reduces support requests by helping users understand your app from day one.",
+    "order": 12,
+    "estimatedTime": "8 min read",
+    "completed": false
+  },
+  {
+    "id": "13",
+    "title": "Billing and Revenue",
+    "description": "Set up pricing tiers, payment processing, and revenue streams for your app",
+    "content": "Ready to monetize your app? Apper makes it easy to set up pricing, collect payments, and manage revenue streams without any technical complexity.\n\nPricing Model Options:\nSubscription Plans:\n- Monthly or annual billing\n- Multiple tiers (Basic, Pro, Enterprise)\n- Feature-based pricing\n- User-based pricing\n- Usage-based pricing\n\nOne-Time Purchases:\n- Single payment for full access\n- Feature unlocks\n- Premium content\n- Add-on functionality\n\nCredit Systems:\n- Users buy credits upfront\n- Spend credits for actions\n- Perfect for usage-based apps\n- Encourages engagement\n\nFreemium Models:\n- Free tier with basic features\n- Paid upgrades for advanced functionality\n- Great for user acquisition\n- Lower barrier to entry\n\nSetting Up Pricing Tiers:\n1. Go to \"Billing Settings\" in Manage App\n2. Click \"Create Pricing Plan\"\n3. Define each tier:\n   - Plan name and description\n   - Monthly/annual price\n   - Included features\n   - User limits\n   - Support level\n\nConnecting Stripe:\nApper integrates with Stripe for secure payment processing:\n\n1. Create a Stripe account (if you don't have one)\n2. In Apper, go to \"Payment Settings\"\n3. Click \"Connect Stripe Account\"\n4. Follow the authorization process\n5. Configure payment methods:\n   - Credit/debit cards\n   - Bank transfers\n   - Digital wallets (Apple Pay, Google Pay)\n   - Buy now, pay later options\n\nRevenue Features Apper Provides:\n- Automatic invoice generation\n- Tax calculation and collection\n- Failed payment recovery\n- Subscription management\n- Revenue analytics and reporting\n- Customer billing portals\n- Refund processing\n\nBest Practices for Pricing:\n- Start simple with 2-3 tiers\n- Make value proposition clear\n- Offer annual discounts\n- Include free trial periods\n- Monitor competitor pricing\n- Test different price points\n\nRemember: Apper handles all the technical complexity of payments, so you can focus on creating value for your customers.",
+    "order": 13,
+    "estimatedTime": "10 min read",
+    "completed": false
+  },
+  {
+    "id": "14",
+    "title": "Code Section (Optional)",
+    "description": "Advanced customization options for developers who want direct code access",
+    "content": "Good news: most Apper users never need to touch code! But for developers who want ultimate control, the Code section provides direct access to your app's underlying technology.\n\nWho Should Use the Code Section:\n- Experienced developers\n- Users with specific integration needs\n- Teams wanting to add custom functionality\n- Organizations with unique requirements\n\nWho Should Skip It:\n- Most business users\n- Non-technical founders\n- Anyone happy with Apper's built-in features\n- Users focused on speed and simplicity\n\nWhat You Can Do with Code Access:\nCustom Integrations:\n- Connect to specialized APIs\n- Add third-party services\n- Create custom data flows\n- Build unique workflows\n\nAdvanced Features:\n- Complex calculations\n- Custom algorithms\n- Specialized user interfaces\n- Performance optimizations\n\nData Processing:\n- Custom data validation\n- Complex business logic\n- Advanced reporting\n- Data transformation\n\nCode Section Features:\n- Full source code access\n- Syntax highlighting\n- Version control integration\n- Code export capabilities\n- Local development setup\n\nImportant Considerations:\nAdvantages of Using Code:\n- Ultimate flexibility\n- Custom functionality\n- Integration possibilities\n- Complete control\n\nDisadvantages:\n- Requires technical expertise\n- Potential for breaking changes\n- More complex maintenance\n- Slower development\n\nBest Practice:\nStart with Apper's no-code approach and only add custom code when you need functionality that can't be achieved through conversation with the AI. Most apps never need custom code!\n\nIf You're Not a Developer:\nConsider hiring a developer consultant for specific needs rather than learning to code yourself. Apper's conversation-based approach handles 95% of common requirements without any coding.",
+    "order": 14,
+    "estimatedTime": "7 min read",
+    "completed": false
+  },
+  {
+    "id": "15",
+    "title": "Database Setup",
+    "description": "Understand automatic database configuration and app types for optimal permissions",
+    "content": "Apper automatically creates and configures your database, but understanding how it works helps you make better decisions about your app's structure.\n\nAutomatic Database Setup:\nWhen you create an app, Apper automatically:\n- Designs the database schema\n- Creates all necessary tables\n- Sets up relationships between data\n- Configures security and permissions\n- Optimizes for performance\n- Enables automatic backups\n\nTwo Main App Types:\nEmployee-Facing Apps (Internal):\n- Used by your team or organization\n- Higher trust level\n- More permissive data access\n- Administrative features\n- Detailed analytics\n- Advanced functionality\n\nCustomer-Facing Apps (External):\n- Used by your customers or public\n- Restricted data access\n- Privacy-focused permissions\n- Limited administrative features\n- Customer-friendly interfaces\n- Security-first approach\n\nHow App Type Affects Database:\nEmployee Apps:\n- Users can see more data\n- Broader search capabilities\n- Export functionality\n- Detailed user information\n- Cross-reference capabilities\n\nCustomer Apps:\n- Users see only their own data\n- Limited search scope\n- Restricted export options\n- Minimal user information\n- Isolated data access\n\nDatabase Features Apper Provides:\nAutomatic Relationships:\n- Links related data automatically\n- Maintains data integrity\n- Optimizes query performance\n- Handles complex associations\n\nSecurity:\n- Encrypted data storage\n- Secure connections\n- Access control\n- Audit trails\n- Regular security updates\n\nPerformance:\n- Automatic indexing\n- Query optimization\n- Caching strategies\n- Scalable architecture\n\nBackups:\n- Automatic daily backups\n- Point-in-time recovery\n- Disaster recovery\n- Data export options\n\nBest Practices:\n- Choose app type carefully during setup\n- Let Apper handle database design\n- Focus on your data needs, not technical structure\n- Trust Apper's security and performance optimizations\n\nRemember: You don't need to understand databases to use Apper effectively. The AI handles all technical aspects while you focus on your business logic and user experience.",
+    "order": 15,
+    "estimatedTime": "9 min read",
+    "completed": false
+  }
+]

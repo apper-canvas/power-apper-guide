@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "moduleId": "1",
+    "sectionTitle": "What is Apper?",
+    "createdAt": "2024-01-15T10:35:00.000Z",
+    "notes": "Great introduction to remember when explaining to others"
+  },
+  {
+    "id": "2",
+    "moduleId": "4",
+    "sectionTitle": "Section 2",
+    "createdAt": "2024-01-15T14:20:00.000Z",
+    "notes": "ChatGPT prompt improvement technique"
+  },
+  {
+    "id": "3",
+    "moduleId": "7",
+    "sectionTitle": "Section 1",
+    "createdAt": "2024-01-15T16:10:00.000Z",
+    "notes": "Useful editing commands for reference"
+  }
+]

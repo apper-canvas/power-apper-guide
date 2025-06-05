@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "moduleId": "1",
+    "content": "Apper AI chat assistant builds full apps natural language conversation",
+    "keywords": ["apper", "ai", "chat", "assistant", "apps", "natural", "language"],
+    "relevance": 1.0
+  },
+  {
+    "id": "2",
+    "moduleId": "2",
+    "content": "all-in-one approach handles everything seamlessly conversation-based flow",
+    "keywords": ["all-in-one", "seamless", "conversation", "flow", "automatic"],
+    "relevance": 0.9
+  },
+  {
+    "id": "3",
+    "moduleId": "3",
+    "content": "business tools client portals SaaS apps online stores games websites databases",
+    "keywords": ["business", "tools", "portals", "saas", "stores", "games", "websites", "databases"],
+    "relevance": 0.8
+  },
+  {
+    "id": "4",
+    "moduleId": "4",
+    "content": "create first app simple prompt ChatGPT improve booking quiz inventory",
+    "keywords": ["first", "app", "prompt", "chatgpt", "improve", "booking", "quiz", "inventory"],
+    "relevance": 0.9
+  },
+  {
+    "id": "5",
+    "moduleId": "5",
+    "content": "builder interface customize manage code database four sections",
+    "keywords": ["builder", "interface", "customize", "manage", "code", "database", "sections"],
+    "relevance": 0.7
+  },
+  {
+    "id": "6",
+    "moduleId": "6",
+    "content": "behind scenes prompt analysis architecture planning rapid development real-time preview",
+    "keywords": ["behind", "scenes", "analysis", "architecture", "development", "preview", "real-time"],
+    "relevance": 0.6
+  },
+  {
+    "id": "7",
+    "moduleId": "7",
+    "content": "editing expanding app AI assistant natural language login authentication colors",
+    "keywords": ["editing", "expanding", "assistant", "natural", "language", "login", "authentication"],
+    "relevance": 0.8
+  },
+  {
+    "id": "8",
+    "moduleId": "8",
+    "content": "troubleshooting errors Fix It Now button automatic resolution",
+    "keywords": ["troubleshooting", "errors", "fix", "now", "button", "automatic", "resolution"],
+    "relevance": 0.7
+  },
+  {
+    "id": "9",
+    "moduleId": "9",
+    "content": "app versions automatic saving timestamps switching restoration preview",
+    "keywords": ["versions", "automatic", "saving", "timestamps", "switching", "restoration", "preview"],
+    "relevance": 0.6
+  },
+  {
+    "id": "10",
+    "moduleId": "10",
+    "content": "mobile desktop preview responsive design device optimization touch-friendly",
+    "keywords": ["mobile", "desktop", "preview", "responsive", "design", "optimization", "touch"],
+    "relevance": 0.7
+  }
+]

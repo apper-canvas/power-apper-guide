@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "moduleId": "1",
+    "completed": true,
+    "completedAt": "2024-01-15T10:30:00.000Z",
+    "percentComplete": 100
+  },
+  {
+    "id": "2",
+    "moduleId": "2",
+    "completed": true,
+    "completedAt": "2024-01-15T11:45:00.000Z",
+    "percentComplete": 100
+  },
+  {
+    "id": "3",
+    "moduleId": "3",
+    "completed": false,
+    "completedAt": null,
+    "percentComplete": 65
+  }
+]
